@@ -7,6 +7,6 @@ GRUPO 11
 FEDERICO RICARDO LOPEZ
 
 ## Contenido del repositorio:
-- Backups comprimidos de los directorios: `/root`, `/etc`, `/opt`, `/proc`, `/www_dir`, `/backup_dir`.
-- Directorio `/var`.
+- Backups comprimidos de los directorios: `/etc`, `/opt`, `/proc`, `/www_dir`, `/backup_dir`.
+- Directorio `/root`, `/var` en partes por ser muy grandes para commitear enteros.
 - Diagrama topológico de la infraestructura.
