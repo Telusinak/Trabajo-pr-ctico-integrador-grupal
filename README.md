@@ -1,4 +1,4 @@
-# Trabajo-pr-ctico-integrador-grupal
+# Trabajo-practico-integrador-grupal
 TP FINAL
 
 GRUPO 11
